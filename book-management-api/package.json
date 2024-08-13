@@ -10,8 +10,14 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@mui/material": "^5.16.7",
+    "axios": "^1.7.3",
     "cors": "^2.8.5",
     "express": "^4.19.2",
-    "node-adodb": "^5.0.3"
+    "node-adodb": "^5.0.3",
+    "react-router-dom": "^6.26.0"
   }
 }
